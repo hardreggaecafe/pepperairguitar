@@ -31,21 +31,21 @@
     </Resources>
     <Topics />
     <IgnoredPaths>
-        <Path src="html" />
+        <Path src="MTD.pml" />
+        <Path src="Guitar/behavior_1/behavior.xar" />
         <Path src="PepperGuys/behavior.xar" />
+        <Path src="Guitar/behavior_1" />
         <Path src="Guitar/Whitney Houston Saving All My Love For You.mp3" />
-        <Path src="Guitar/Guitar.pml" />
-        <Path src="Guitar/manifest.xml" />
-        <Path src="html/index_n.html" />
         <Path src="Guitar/Kiss---Rock-And-Roll-All-Night_1.mp3" />
+        <Path src="manifest.xml" />
+        <Path src="html" />
+        <Path src="html/index_n.html" />
         <Path src=".metadata" />
         <Path src="PepperGuys" />
-        <Path src="html/index_sd.html" />
-        <Path src="manifest.xml" />
         <Path src=".DS_Store" />
+        <Path src="Guitar/Guitar.pml" />
+        <Path src="html/index_sd.html" />
         <Path src="Guitar" />
-        <Path src="MTD.pml" />
-        <Path src="Guitar/behavior_1" />
-        <Path src="Guitar/behavior_1/behavior.xar" />
+        <Path src="Guitar/manifest.xml" />
     </IgnoredPaths>
 </Package>
